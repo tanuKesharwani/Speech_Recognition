@@ -1,0 +1,138 @@
+{
+    "intents":[
+
+        {
+
+            "tag":"greeting",
+            "patterns":["hello","hii","hey","wakeup","cripttion","Are you there"
+
+            ],
+            "responses":["hlo sir", "how are you ","hlo ,how are you sir ",
+                "Hello ","hlo i am iron man"
+
+            ]
+        },
+
+        {
+
+            "tag":"breakup",
+            "patterns":["by","meet you soon","ok then","tata","chalte hai phir","aate hai"
+
+            ],
+            "responses":["bye then ", "meet you soon sir ","ok sir  ",
+                "bye bye  ","by stary safe"
+
+            ]
+        },
+
+        {
+
+            "tag":"helth",
+            "patterns":["how are you","are you fine","all good","are you fine ","is every thing ok","hal chal thik hai na"
+
+            ],
+            "responses":["sab thik hai sir  ", "good sir  "," how about you sir  ",
+                " felling software hehe he ","cool sir"
+
+            ]
+        },
+
+        {
+
+            "tag":"identity",
+            "patterns":["who are you","what is you","Are you a bot ","are you fine ","tum kon ho"
+
+            ],
+            "responses":["I am taking bot ","mai aik batkarne wala interface hu"
+
+            ]
+        },
+        {
+
+            "tag":"creator",
+            "patterns":["who am i ","what is my name ","you know me ","who creates you  ","what is the name of your creator","who developed you","what is the name of your developer"
+
+            ],
+            "responses":["cripttion"
+
+            ]
+        },
+        {
+
+            "tag":"time",
+            "patterns":[" what the current time  "," samay batao "," whats the time "
+
+            ],
+            "responses":["time"
+
+            ]
+        },
+        {
+
+            "tag":"date",
+            "patterns":[" today date ","  tarik batao "," whats the date "
+
+            ],
+            "responses":["date"
+
+            ]
+        },
+
+        {
+
+            "tag":"day",
+            "patterns":["day ","  aaj kon din hai batao "," whats the day today "
+
+            ],
+            "responses":["day"
+
+            ]
+        },
+        {
+
+            "tag":"wikipedia",
+            "patterns":["who is  ","about"," what is","deatils about","information of ","some hint of "
+
+            ],
+            "responses":["wikipedia"
+
+            ]
+        },
+        {
+
+            "tag":"google",
+            "patterns":["search","google ","google"
+
+            ],
+            "responses":["google"
+
+            ]
+        }
+
+        
+        
+
+
+    ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
